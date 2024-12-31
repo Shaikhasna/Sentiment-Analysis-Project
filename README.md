@@ -1,4 +1,4 @@
-Sentiment Analysis Project
+Sentiment Analysis Project :
 This project implements a Sentiment Analysis tool using Python, Flask, and machine learning models. The application allows users to input text and analyze its sentiment, 
 classifying it as positive, negative, or neutral.
 Features:
